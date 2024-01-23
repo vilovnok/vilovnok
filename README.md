@@ -1,5 +1,5 @@
 # 👋Hi there
-I'm Richard Gurtsiev:  
+<!-- I'm Richard Gurtsiev:  -->
 - FullStack at ОИЯИ
 - ML, DL and NLP enthusiast
 <!-- - ITMO student and NSU graduate.   -->
