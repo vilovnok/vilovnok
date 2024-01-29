@@ -29,4 +29,4 @@
   |🦜[Mlcourse.ai](https://github.com/anna-marshalova/mlcourse.ai-assignments)|[Open Machine Learning Course](https://github.com/anna-marshalova/mlcourse.ai-assignments) from ODS|since June 2023|🕔|
   |😊[NLP course](https://github.com/anna-marshalova/methods-and-algorithms-of-computational-linguistics)| NLP course at NSU: sentiment analysis with TF-IDF + logreg and CNN + fastText|Sept - Dec 2021|✅|
 
-  >Certain repositories within the active projects are presently set to private<
+  >Certain repositories within the active projects are presently set to private.
