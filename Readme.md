@@ -8,6 +8,7 @@
 |Name|Description|Time|Status|
 |----|-----------|----|------|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Text simplifier based on fine-tuned T5 model| Jan 2024|✅|
+|🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система для "Karpov.courses"| May 2024|✅|
 
 ## 🧑‍🔧Courses
   
