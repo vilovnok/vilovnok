@@ -9,7 +9,7 @@
 |----|-----------|----|------|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Text simplifier based on fine-tuned T5 model| Jan 2024|✅|
 |🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система для "Karpov.courses"| May 2024|✅|
-|🩳[Matching](https://github.com/vilovnok/matching_item)|Классфикация товаров для "Яндекс Лавка"| Feb 2024|✅|
+|🩳[Matching](https://github.com/vilovnok/matching_item)|Classification of items from "Яндекс Лавка" into categories| Feb 2024|✅|
 |🫧[ATLAS](https://github.com/vilovnok/atlas-db-proj)|Проект для мониторинга базы данных эксперимента "ATLAS"| March 2022|✅|
 ## 🧑‍🔧Courses
   
