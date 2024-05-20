@@ -17,6 +17,6 @@
 |Name|Description|Time|Status|
 |----|-----------|----|------|
 |Я[Yandex](https://github.com/yandexdataschool/nlp_course.git)|Deep learing course at Yandex| Dec 2023|✅|
-|😊[NLP course](https://github.com/vilovnok/nlp_algorithms.git)|sentiment analysis with TF-IDF + logreg and CNN + fastText| Dec 2023|✅|
+|😊[NLP course](https://github.com/vilovnok/nlp_algorithms.git)|sentiment analysis with TF-IDF + logreg and CNN + fastText| Oct 2022|✅|
 
   >Certain repositories within the active projects are presently set to private.
