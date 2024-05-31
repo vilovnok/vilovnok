@@ -10,7 +10,7 @@
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Text simplifier based on fine-tuned T5 model| Jan 2024|✅|
 |🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система для "Karpov.courses"| May 2024|✅|
 |🩳[Matching](https://github.com/vilovnok/matching_item)|Classification of items from "Яндекс Лавка" into categories| Feb 2024|✅|
-|🔬[TrackNet](https://github.com/vilovnok/trackNet)|Моделирование треков частиц через детектор и обработка координатов попадания (хитов) в файл.| Jan 2024|⏳|
+|🔬[TrackNet](https://github.com/vilovnok/trackNet)|Моделирование треков частиц через детектор и обработка координатов попадания (хитов)| Jan 2024|⏳|
 |🔍[DA](https://github.com/vilovnok/final_project_DA_karpov_courses.git)|финальный проект по специализации Аналитик данных| Dec 2023|✅|
 |🫧[ATLAS](https://github.com/vilovnok/atlas-db-proj)|Проект для мониторинга базы данных эксперимента "ATLAS"| Aug 2023|✅|
 
