@@ -3,11 +3,12 @@
 - Researcher at ОИЯИ
 <!-- - SOGU graduate.   -->
 
-## 💡Projects
+## 💡Projects 
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Text simplifier based on fine-tuned T5 model| Jan 2024|✅|
+|🫧[SPD](https://github.com/vilovnok/spd-eventindex.git)|Проект для мониторинга базы данных эксперимента "SPD"| Jun 2023|✅|
 |🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система для "Karpov.courses"| May 2024|✅|
 |🩳[Matching](https://github.com/vilovnok/matching_item)|Classification of items from "Яндекс Лавка" into categories| Feb 2024|✅|
 |🔬[TrackNet](https://github.com/vilovnok/trackNet)|Моделирование треков частиц через детектор и обработка координатов попадания (хитов)| Jan 2024|⏳|
