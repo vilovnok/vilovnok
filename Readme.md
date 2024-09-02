@@ -1,5 +1,5 @@
 # 👋Hi there
-I'm Richard Gurtsiev: 
+I'm Richard Gurtsiev 
 - Researcher at JINR
 
 
