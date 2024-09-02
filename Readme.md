@@ -1,7 +1,7 @@
 # 👋Hi there
-<!-- I'm Richard Gurtsiev:  -->
-- Researcher at ОИЯИ
-<!-- - SOGU graduate.   -->
+I'm Richard Gurtsiev: 
+- Researcher at JINR
+
 
 ## 💡Projects 
 
