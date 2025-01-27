@@ -12,6 +12,7 @@ I'm Richard Gurtsiev
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
+|🤓[Advisor](https://github.com/vilovnok/advisor)|Помощник для подбора наиболее подходящих вакансий или резюме на основе входного контента| Jan 2025|✅|
 |😷[MedFusion](https://github.com/vilovnok/medfusion)|Помощник для оказания медицинских консультаций| Jan 2025|✅|
 |📚[Paper Insight](https://github.com/vilovnok/paper_insight)|Помощник для понимания научных статей с arXiv| Jan 2025|✅|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|fine-tuned T5 model| Jan 2024|✅|
