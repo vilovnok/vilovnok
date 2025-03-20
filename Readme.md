@@ -17,7 +17,7 @@ I'm Richard Gurtsiev
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Сервис для автоматического упрощения текстов на русском языке| Jan 2024|✅|
 |🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система "Karpov.courses"| May 2024|✅|
 |🩳[Matching](https://github.com/vilovnok/matching_item)| "Яндекс Лавка"| Feb 2024|✅|
-|🌟️️️️️️[Service](https://github.com/vilovnok/hackathon)|Сервис для генерации изображений| Dec 2023|✅|
+|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Сервис для генерации изображений| Dec 2023|✅|
 |🔍[DA](https://github.com/vilovnok/final_project_DA_karpov_courses.git)|финальный проект по специализации Аналитик данных| Dec 2023|✅|
 
 ## 🧑‍🔧Courses
