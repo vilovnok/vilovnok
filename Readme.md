@@ -24,7 +24,7 @@ I'm Richard Gurtsiev
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
-|🤓[Advisor](https://github.com/vilovnok/advisor)|Помощник для подбора наиболее подходящих вакансий или резюме на основе входного контента| Jan 2025|✅|
+|📝[QVGAN](https://github.com/vilovnok/QVGAN)|[Arxiv](https://arxiv.org/pdf/2012.09841.pdf)| April 2025|✅|
 
 ## 🧑‍🔧Courses
   
