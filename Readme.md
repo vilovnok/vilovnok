@@ -20,6 +20,12 @@ I'm Richard Gurtsiev
 |🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Сервис для генерации изображений| Dec 2023|✅|
 |🔍[DA](https://github.com/vilovnok/final_project_DA_karpov_courses.git)|финальный проект по специализации Аналитик данных| Dec 2023|✅|
 
+## 🧩Implementations  
+
+|Name|Description|Time|Status|
+|----|-----------|----|------|
+|🤓[Advisor](https://github.com/vilovnok/advisor)|Помощник для подбора наиболее подходящих вакансий или резюме на основе входного контента| Jan 2025|✅|
+
 ## 🧑‍🔧Courses
   
 |Name|Description|Time|Status|
