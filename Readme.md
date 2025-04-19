@@ -25,6 +25,7 @@ I'm Richard Gurtsiev
 |Name|Description|Time|Status|
 |----|-----------|----|------|
 |[VQGAN](https://github.com/vilovnok/VQGAN)|[Arxiv](https://arxiv.org/pdf/2012.09841.pdf)| April 2025|⏳|
+|[GNN(classical algorithms)](https://github.com/vilovnok/GNN)|[Arxiv]()| April 2025|⏳|
 
 ## 🧑‍🔧Courses
   
