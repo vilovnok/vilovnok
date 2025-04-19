@@ -14,7 +14,7 @@ I'm Richard Gurtsiev
 |----|-----------|----|------|
 |🤬[Oblivion](https://github.com/vilovnok/oblivion.git)|Adversarial LLM for Robustness Evaluation| March 2025|⏳|
 |🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes| Jan 2025|⏳|
-|😷[MedFusion](https://github.com/vilovnok/medfusion)|Помощник для оказания медицинских консультаций| Jan 2025|✅|
+|😷[MedFusion](https://github.com/vilovnok/medfusion)|LLM for providing medical advice| Jan 2025|✅|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Сервис для автоматического упрощения текстов на русском языке| Jan 2024|✅|
 |🎬[Recsys](https://github.com/vilovnok/recsys_social_net)|Рекомендательная система "Karpov.courses"| May 2024|✅|
 |🩳[Matching](https://github.com/vilovnok/matching_item)| "Яндекс Лавка"| Feb 2024|✅|
