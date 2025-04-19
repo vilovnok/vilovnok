@@ -1,5 +1,5 @@
 # 👋Hi there
-I'm Richard Gurtsiev 
+
 
 
 <div id="header" align="center">
