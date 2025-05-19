@@ -12,6 +12,7 @@
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
+|🤖[YanixTrade](https://github.com/vilovnok/ml_service.git)|YanixTrade is an interactive service that helps users get answers to their questions using an internal virtual currency called YNX.| March 2025|⏳|
 |🤬[Oblivion](https://github.com/vilovnok/oblivion.git)|Adversarial LLM for Robustness Evaluation| March 2025|⏳|
 |🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes| Nov 2024|✅|
 |😷[MedFusion](https://github.com/vilovnok/medfusion)|LLM for providing medical advice| Dec 2025|✅|
