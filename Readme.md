@@ -12,7 +12,6 @@
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
-|🤬[Oblivion](https://github.com/vilovnok/oblivion.git)|Adversarial LLM for Robustness Evaluation| March 2025|⏳|
 |😷[MedFusion](https://github.com/vilovnok/medfusion)|LLM for providing medical advice| Dec 2024|✅|
 |🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes| Nov 2024|✅|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Service for automatic simplification of texts in Russian| Jan 2024|✅|
