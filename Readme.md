@@ -26,15 +26,3 @@
 |[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Arxiv](https://arxiv.org/pdf/1611.07308.pdf)| July 2025|✅|
 |[VQGAN](https://github.com/vilovnok/VQGAN)|[Arxiv](https://arxiv.org/pdf/2012.09841.pdf)| April 2025|✅|
 |[GNN(classical algorithms)](https://github.com/vilovnok/GNN)|[Arxiv](https://github.com/vilovnok/GNN)| April 2025|⏳|
-
-## 🧑‍🔧Courses
-  
-|Name|Description|Time|Status|
-|----|-----------|----|------|
-|Я[Yandex](https://github.com/yandexdataschool/nlp_course.git)|Deep learing course at Yandex| Dec 2023|✅|
-|🔓[LLM Security](https://github.com/vilovnok/itmo_llm_security_courses.git)|LLM Security course at ITMO| Dec 2025|✅|
-|🤯[Deep Gen Models](https://github.com/vilovnok/deep_gen_models.git)|Gen models course at ITMO| Dec 2025|✅|
-|🌅[Image](https://github.com/vilovnok/image_itmo_course.git)|Image course at ITMO| Dec 2025|✅|
-|🌀[ML base](https://github.com/vilovnok/ML-base-courses.git)|ML base at ITMO| Dec 2025|✅|
-|📝[DL (NLP)](https://github.com/vilovnok/itmo_dl_nlp_courses)|DL (NLP) course at ITMO| April 2025|✅|
-|📲[ML service](https://github.com/vilovnok/ml_service)|ML service course at ITMO| April 2025|✅|
