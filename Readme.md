@@ -26,4 +26,3 @@
 |[mUSE](https://github.com/vilovnok/hr_matcher)|[Arxiv](https://arxiv.org/pdf/1611.07308.pdf)| October 2025|✅|
 |[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Arxiv](https://arxiv.org/pdf/1611.07308.pdf)| July 2025|✅|
 |[VQGAN](https://github.com/vilovnok/VQGAN)|[Arxiv](https://arxiv.org/pdf/2012.09841.pdf)| April 2025|✅|
-|[GNN(classical algorithms)](https://github.com/vilovnok/GNN)|[Arxiv](https://github.com/vilovnok/GNN)| April 2025|⏳|
