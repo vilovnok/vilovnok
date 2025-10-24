@@ -21,8 +21,8 @@
 
 ## 🧩Implementations  
 
-|Name|Description|Time|Status|
+|Name|Arxiv|Domen|Status|
 |----|-----------|----|------|
-|[mUSE](https://github.com/vilovnok/hr_matcher)|[Arxiv](https://arxiv.org/pdf/2502.03220)| October 2025|✅|
-|[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Arxiv](https://arxiv.org/pdf/1611.07308.pdf)| July 2025|✅|
-|[VQGAN](https://github.com/vilovnok/VQGAN)|[Arxiv](https://arxiv.org/pdf/2012.09841.pdf)| April 2025|✅|
+|[mUSE](https://github.com/vilovnok/hr_matcher)|[Link](https://arxiv.org/pdf/2502.03220)| NLP|✅|
+|[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Link](https://arxiv.org/pdf/1611.07308.pdf)| GRAPH|✅|
+|[VQGAN](https://github.com/vilovnok/VQGAN)|[Link](https://arxiv.org/pdf/2012.09841.pdf)| CV|✅|
