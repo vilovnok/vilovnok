@@ -15,7 +15,7 @@
 |🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes| Nov 2024|✅|
 |📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Service for automatic simplification of texts in Russian| Jan 2024|✅|
 |🩳[Matching](https://github.com/vilovnok/matching_item)|AI platform for smart matching("Яндекс Лавка")| Feb 2024|✅|
-|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Сервис для генерации изображений| Dec 2023|✅|
+|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Image generation service| Dec 2023|✅|
 
 
 
