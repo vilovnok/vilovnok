@@ -24,5 +24,5 @@
 |Name|Arxiv|Status|
 |----|-----------|------|
 |[mUSE](https://github.com/vilovnok/mitigating_language_bias/tree/master)|[Link](https://arxiv.org/pdf/2502.03220)|✅|
-|[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Link](https://arxiv.org/pdf/1611.07308.pdf)| GRAPH|✅|
-|[VQGAN](https://github.com/vilovnok/VQGAN)|[Link](https://arxiv.org/pdf/2012.09841.pdf)| CV|✅|
+|[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Link](https://arxiv.org/pdf/1611.07308.pdf)|✅|
+|[VQGAN](https://github.com/vilovnok/VQGAN)|[Link](https://arxiv.org/pdf/2012.09841.pdf)|✅|
