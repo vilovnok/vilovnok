@@ -4,6 +4,15 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 
 ---
 
+## 💼 Experience
+**amoCRM | Junior NLP Engineer** *(Mart 2025 – September 2025)*  
+- Developed an agent-based system for internal code analysis, which currently performs the initial stages of code review and helps reduce auditing time.
+- Deployed an inference cluster using Ray and vLLM for distributed model serving.
+- Improved user intent classification accuracy in the corporate messenger from 60% to 92% by fine-tuning a BERT-like model and optimizing inference through ONNX export.
+- Configured logging and integration with multiple microservices for client data collection and analysis using Airflow, MLflow, and S3.
+
+---
+
 ## 💡Projects 
 - **Advisor**: LLM for selecting the most suitable vacancies or resumes
 - **Imaginarium AI**: Image generation service
@@ -16,15 +25,6 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 - **NLP**: LLMs · LangChain · FAISS · RAG · peft · trl · nltk · spaCy · Transformers
 - **Tools**: PostgreSQL · Git · Linux · Docker · K8s · Ray 
 - **Visualization**: Matplotlib · Seaborn 
-
----
-
-## 💼 Experience
-**amoCRM | Junior NLP Engineer** *(Mart 2025 – September 2025)*  
-- Developed an agent-based system for internal code analysis, which currently performs the initial stages of code review and helps reduce auditing time.
-- Deployed an inference cluster using Ray and vLLM for distributed model serving.
-- Improved user intent classification accuracy in the corporate messenger from 60% to 92% by fine-tuning a BERT-like model and optimizing inference through ONNX export.
-- Configured logging and integration with multiple microservices for client data collection and analysis using Airflow, MLflow, and S3.
 
 ---
 
