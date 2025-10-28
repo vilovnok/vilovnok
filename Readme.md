@@ -10,12 +10,12 @@
 
 ## 💡Projects 
 
-|Name|Description|Time|Status|
-|----|-----------|----|------|
-|🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes| Nov 2024|✅|
-|📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Service for automatic simplification of texts in Russian| Jan 2024|✅|
-|🩳[Matching](https://github.com/vilovnok/matching_item)|AI platform for smart matching("Яндекс Лавка")| Feb 2024|✅|
-|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Image generation service| Dec 2023|✅|
+|Name|Description|Status|
+|----|-----------|------|
+|🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes|✅|
+|📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Service for automatic simplification of texts in Russian|✅|
+|🩳[Matching](https://github.com/vilovnok/matching_item)|AI platform for smart matching("Яндекс Лавка")|✅|
+|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Image generation service|✅|
 
 
 
