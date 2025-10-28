@@ -1,28 +1,34 @@
 # 👋Hi there
+I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia  
+🚀 Specializing in LLMs, VLMs, and exploring cutting-edge AI technologies  
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-  <img src="https://komarev.com/ghpvc/?username=vilovnok&style=flat-square&color=blueviolet" alt=""/><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=484098&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Richard👋" alt="Typing SVG" /></a>
-</div>
+---
 
 ## 💡Projects 
+- **Advisor**: LLM for selecting the most suitable vacancies or resumes
+- **Imaginarium AI**: Image generation service
 
-|Name|Description|Status|
-|----|-----------|------|
-|🤓[Advisor](https://github.com/vilovnok/advisor)|LLM for selecting the most suitable vacancies or resumes|✅|
-|📝[TextifyZen](https://github.com/vilovnok/TextifyZen)|Service for automatic simplification of texts in Russian|✅|
-|🩳[Matching](https://github.com/vilovnok/matching_item)|AI platform for smart matching("Яндекс Лавка")|✅|
-|🌟️️️️️️[Imaginarium AI](https://github.com/vilovnok/hackathon)|Image generation service|✅|
+---
 
+## 🛠️ Tech Stack  
+- **Languages**: Python · dart · SQL  
+- **ML**: PyTorch · CatBoost · Optuna · sklearn  
+- **NLP**: LLMs · LangChain · FAISS · RAG · peft · trl · nltk · spaCy · Transformers
+- **Tools**: PostgreSQL · Git · Linux · Docker · K8s · Ray 
+- **Visualization**: Matplotlib · Seaborn 
 
+---
+
+## 💼 Experience
+**Sber | Junior NLP Engineer** *(June 2025 – now)* 
+
+**amoCRM | Junior NLP Engineer** *(Mart 2025 – September 2025)*  
+- Developed an agent-based system for internal code analysis, which currently performs the initial stages of code review and helps reduce auditing time.
+- Deployed an inference cluster using Ray and vLLM for distributed model serving.
+- Improved user intent classification accuracy in the corporate messenger from 60% to 92% by fine-tuning a BERT-like model and optimizing inference through ONNX export.
+- Configured logging and integration with multiple microservices for client data collection and analysis using Airflow, MLflow, and S3.
+
+---
 
 ## 🧩Implementations  
-
-|Name|Arxiv|Status|
-|----|-----------|------|
-|[mUSE](https://github.com/vilovnok/mitigating_language_bias/tree/master)|[Link](https://arxiv.org/pdf/2502.03220)|✅|
-|[VGAE](https://github.com/vilovnok/vgae-pytorch)|[Link](https://arxiv.org/pdf/1611.07308.pdf)|✅|
-|[VQGAN](https://github.com/vilovnok/VQGAN)|[Link](https://arxiv.org/pdf/2012.09841.pdf)|✅|
+- **mUSE** [Mitigating Language Bias in Cross-Lingual Job Retrieval: A Recruitment Platform Perspective](https://github.com/vilovnok/mitigating_language_bias/tree/master)
