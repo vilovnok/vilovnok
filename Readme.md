@@ -25,7 +25,7 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python · dart · SQL  
-- **ML**: PyTorch · CatBoost · Optuna · sklearn  
+- **ML**: PyTorch · CatBoost · Optuna · sklearn · pandas  
 - **NLP**: LLMs · LangChain · FAISS · RAG · peft · trl · nltk · spaCy · Transformers
 - **Tools**: PostgreSQL · Git · Linux · Docker · K8s · Ray 
 - **Visualization**: Matplotlib · Seaborn 
