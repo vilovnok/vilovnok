@@ -18,6 +18,7 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 ---
 
 ## 💡Projects 
+- **[Ray+vLLM](https://github.com/vilovnok/ray_vllm)**: Distributed LLM Inference Service
 - **[Advisor](https://github.com/vilovnok/advisor)**: LLM for selecting the most suitable vacancies or resumes
 - **[Imaginarium AI](https://github.com/vilovnok/hackathon)**: Image generation service
 
