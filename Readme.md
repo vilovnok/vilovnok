@@ -18,7 +18,7 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 ---
 
 ## 💡Projects 
-- [**Advisor**](https://github.com/vilovnok/advisor): LLM for selecting the most suitable vacancies or resumes
+- **[Advisor]**(https://github.com/vilovnok/advisor): LLM for selecting the most suitable vacancies or resumes
 - **Imaginarium AI**: Image generation service
 
 ---
