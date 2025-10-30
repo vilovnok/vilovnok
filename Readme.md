@@ -5,7 +5,7 @@ I'm Richard Gurtsiev, a passionate NLP/LLM Engineer from Moscow, Russia
 ---
 
 ## 💼 Experience
-**amoCRM | Junior NLP Engineer** *(Mart 2025 – September 2025)*  
+**amoCRM | Junior NLP Engineer** *(Mart 2025 – October 2025)*  
 - Developed an agent-based system for internal code analysis, which currently performs the initial stages of code review and helps reduce auditing time.
 - Deployed an inference cluster using Ray and vLLM for distributed model serving.
 - Improved user intent classification accuracy in the corporate messenger from 60% to 92% by fine-tuning a BERT-like model and optimizing inference through ONNX export.
